@@ -1,0 +1,41 @@
+The cUSD Savings program lets you earn when you save in cUSD and is brought to you by the decentralized Celo communiyty via on-chain governance vote and approval: CGP [0014]: Distribute CELO to cUSD holders (Governance Proposal ID #: 16) in January 2021. https://github.com/celo-org/governance/blob/main/CGPs/cgp-0014.md
+
+Here’s how it works:
+  Start by transferring cUSD to your wallet to participate! You can follow these instructions for adding cUSD to a Valora wallet.
+  Confirm your phone number. An easy way to do this is to confirm your phone number with the Valora app by following the onboarding steps in the app!
+  Earnings are calculated at the end of each earnings period (weekly) based on the average cUSD balance you held during the entire earnings period (“balance”). Initially, earnings will be 0.1% of the cUSD balance each week, which can compound to up to 5% per year.
+  For instance, if you have a 100cUSD balance each week, you will receive approximately 0.1cUSD each week, summing to ~5cUSD after 1 year, or ~5% of your initial balance
+  Earnings are credited to your cUSD balance within 3 days after the end of each earnings period.
+
+More details:
+  Make sure to confirm your phone number and have an appropriate balance to receive the earnings. You can confirm your phone number in the Valora app (this is the process when you receive 3 text messages). 
+  Eligibility is based on phone number confirmation and average cUSD balance amount during the earnings period.
+  The program is expected to run until Dec 31st, 2021 or until funds run out, although earning amounts and program duration may change. 
+  An account's average cUSD balance during the entire earnings period is calculated by averaging the address' cUSD balance over all blocks validated during the earnings period in the Celo blockchain. For instance, if:
+  An earnings period goes from June 28th, 00:00 GMT to July 6th
+  You hold 0 cUSD from June 28th, 00:00 GMT to July 1st, 12:00 GMT
+  You add 10 cUSD on July 1st, 12:00 GMT (halfway through the earnings period) and keep this balance in your wallet until July 4th, 00:00 GMT
+  Your qualifying balance for this earnings period would be of approximately 5 cUSD (depending on rounding and average block time).
+  Earnings will be distributed on a first come, first serve basis (by phone number confirmation date) up to a total potential limit of 100,000 cUSD per calendar month
+
+What is cUSD?
+  Celo Dollars, or cUSD is an asset designed for everyday life: people can easily pay, save and send with cUSD to anyone with a phone number, worldwide. cUSD has a stable value that tracks the US Dollar.
+
+Why did my earnings not show up?
+  There are a few possible reasons:
+  The address with the qualifying balance may not have verified their phone number. An easy way to do this is to confirm your phone number with the Valora app by following the onboarding steps in the app!
+  It can take some time to process the earnings and send them. Earnings will usually be processed within 3 days of the end of the earnings period. 
+
+Important notices:
+
+The rate and terms are subject to change over time, and are void where prohibited. Earnings are not guaranteed, may be discontinued at any time, and will be allocated on a best efforts basis. Actual results may vary, based on various factors such as leap years, governance change, timing of transfers, rounding, fund exhaustion, and variation in earnings rates. 
+
+This cUSD Savings Program is the effort of the Celo community with the earnings coming from decentralized Celo Community Fund via a multisig wallet operated by community volunteers (the “Celo Community Volunteers''). Read more about the fund here and if you’d like to join the conversation, join the forum discussion. The cUSD Savings Program is decentralized and is not managed or operated by the Celo Foundation or any of its Alliance for Prosperity members.
+
+LIMITATION OF LIABILITY
+
+YOUR PARTICIPATION IS AT YOUR OWN RISK. THE CSUD SAVINGS PROGRAM IS PROVIDED ON AN "AS IS" AND "AS AVAILABLE" BASIS, WITHOUT ANY WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED. NEITHER THE CELO COMMUNITY VOLUNTEERS NOR ANY PERSON OR ENTITY ASSOCIATED WITH THE CELO FOUNDATION OR THE ALLIANCE FOR PROSPERITY MAKES ANY WARRANTY OR REPRESENTATION WITH RESPECT TO THE COMPLETENESS, SECURITY, RELIABILITY, QUALITY, ACCURACY OR AVAILABILITY OF THE CUSD SAVINGS PROGRAM. 
+ 
+THE CELO COMMUNITY VOLUNTEERS AND THEIR SUCCESSORS AND ASSIGNEES HEREBY DISCLAIM ALL WARRANTIES OF ANY KIND, WHETHER EXPRESS OR IMPLIED, STATUTORY OR OTHERWISE, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF MERCHANTABILITY, NON-INFRINGEMENT AND FITNESS FOR PARTICULAR PURPOSE.
+ 
+IN NO EVENT WILL THE CELO COMMUNITY VOLUNTEERS, THEIR SUCCESSORS AND ASSIGNEES, THE CELO FOUNDATION, ITS MEMBERS, ITS AFFILIATES, OR THEIR LICENSORS, SERVICE PROVIDERS, EMPLOYEES, AGENTS, OFFICERS OR DIRECTORS BE LIABLE FOR DAMAGES OF ANY KIND, UNDER ANY LEGAL THEORY, ARISING OUT OF OR IN CONNECTION WITH YOUR USE, OR INABILITY TO USE, THE CUSD SAVINGS PROGRAM AND ANY WEBSITES OR APPLICATIONS LINKED TO IT, INCLUDING ANY DIRECT, INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL OR PUNITIVE DAMAGES, INCLUDING BUT NOT LIMITED TO, PERSONAL INJURY, PAIN AND SUFFERING, EMOTIONAL DISTRESS, LOSS OF REVENUE, LOSS OF PROFITS, LOSS OF BUSINESS OR ANTICIPATED SAVINGS, LOSS OF USE, LOSS OF GOODWILL, LOSS OF DATA, AND WHETHER CAUSED BY TORT (INCLUDING NEGLIGENCE), BREACH OF CONTRACT OR OTHERWISE, EVEN IF FORESEEABLE.
